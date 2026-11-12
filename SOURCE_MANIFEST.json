@@ -1,0 +1,412 @@
+[
+  {
+    "path": "al01/__init__.py",
+    "size": 70,
+    "sha256": "fdae19b5985bd9cce061819cf866bf48762de47d5d02b9ca95abe5efd1106b92"
+  },
+  {
+    "path": "al01/__main__.py",
+    "size": 1701,
+    "sha256": "73cc5c5136ccfac82069a11bd8bd6991df4985e5749e3b9f5017129b8da5b5d7"
+  },
+  {
+    "path": "al01/acceptance.py",
+    "size": 4369,
+    "sha256": "c8429fd55be0707365b887d09a14d3d5ac689b4af46dbffc1cc3c025dfd1bb04"
+  },
+  {
+    "path": "al01/actions.py",
+    "size": 4491,
+    "sha256": "dc778bf2b4dcbfffeaf3be406dedf0d4fd20930770af9d4729629d28121c0f9c"
+  },
+  {
+    "path": "al01/archive.py",
+    "size": 6526,
+    "sha256": "02b827c2c1b7751a9a0542f7695472dc567050032ff9a0ca73ee5dab30d2e3a4"
+  },
+  {
+    "path": "al01/compact_choice_learning.py",
+    "size": 12987,
+    "sha256": "1ecb6bd47721c0b3e4c9e654fa389af9efc8cc6a16904c428074bb0f0731c38c"
+  },
+  {
+    "path": "al01/compact_cohorts.py",
+    "size": 29197,
+    "sha256": "8afaebfaf66a205eb02f67ef63b1194be16e11fdad2309a3ae9dcb60b3165cb9"
+  },
+  {
+    "path": "al01/compact_continuation.py",
+    "size": 8259,
+    "sha256": "a1f2f69438fffcf97372a0ac851643e398d65e83d3f7e621761d4d249a63e9fb"
+  },
+  {
+    "path": "al01/compact_deferred_investigation.py",
+    "size": 2794,
+    "sha256": "4ab01e8a0d2ff2525ece07ea63d48491a84a92488afce8bd09121d68b45ce986"
+  },
+  {
+    "path": "al01/compact_derived_consumer.py",
+    "size": 15724,
+    "sha256": "ca59805003a367f5bb2340fe805b91f26c7a42838e642853044c4d7ed09a82e8"
+  },
+  {
+    "path": "al01/compact_derived_observation.py",
+    "size": 12889,
+    "sha256": "6749e3a6ddee584a3092c96d87bcefb1e06d7d0c5a354e10e32257abe3e105bc"
+  },
+  {
+    "path": "al01/compact_field.py",
+    "size": 11202,
+    "sha256": "f099f5c08eb54b5b0e66bcde38197a9dccd87dc98e33a013587ba072c73d71d7"
+  },
+  {
+    "path": "al01/compact_guarded_procedures.py",
+    "size": 11692,
+    "sha256": "4f7a5fe28717b1047e63192df81e5a8ef90f194df7ea9a948a0f891401771201"
+  },
+  {
+    "path": "al01/compact_help.py",
+    "size": 22017,
+    "sha256": "81cccc599caece2860c867e46dc1cd97b68906e3a8e4824e8beeed0ac52d2d06"
+  },
+  {
+    "path": "al01/compact_help_roles.py",
+    "size": 5205,
+    "sha256": "3ab65c47b062a63e44e05501acecdb149a5f630bf2b6c4efd6c3d0e5423396fe"
+  },
+  {
+    "path": "al01/compact_interaction.py",
+    "size": 16924,
+    "sha256": "5d0877aee91c573ab12b2b754f3e12a0b4c71cd2f742648c85439546d1c6594c"
+  },
+  {
+    "path": "al01/compact_interleaving.py",
+    "size": 4869,
+    "sha256": "9b4a39d1154249fd8b645e8f6f6d71f0fe12a25ece1c3d63e4c4a1f8de6d899d"
+  },
+  {
+    "path": "al01/compact_learning.py",
+    "size": 10041,
+    "sha256": "29fc9d013111fd4f1c02a42fef16bdf7fb3daf6594c73d383d7b5eb0e5882319"
+  },
+  {
+    "path": "al01/compact_native.py",
+    "size": 9393,
+    "sha256": "3c547ea1bb141e2b150dbce8a81c6d01bfda39be6f09ad34fd8a03bc3991ae2a"
+  },
+  {
+    "path": "al01/compact_native_acquisition.py",
+    "size": 12274,
+    "sha256": "4468312aa34a3a89b4b8d40eb37eb6716e1792a7a99dd24d97b0a52babc499f0"
+  },
+  {
+    "path": "al01/compact_native_consumer.py",
+    "size": 14215,
+    "sha256": "92b7586d9933b430f49650b82301c7bc40bc189024659c448930b62ad33be23a"
+  },
+  {
+    "path": "al01/compact_native_order_evidence.py",
+    "size": 7699,
+    "sha256": "e7512ab33f99c23e435a4e68a1ddf302b5fb0fa403e3c843ec70e1f84bff665f"
+  },
+  {
+    "path": "al01/compact_native_task_refresh.py",
+    "size": 18928,
+    "sha256": "007e3f993d3aa213f9feb395037c7218ea8f73da9518aa328ff5bd66835104f9"
+  },
+  {
+    "path": "al01/compact_observer.py",
+    "size": 9627,
+    "sha256": "a0cfa5c8967a3cdcfbe4e18a341c1014c97250d4519dc9d92295b2f0e436cf4f"
+  },
+  {
+    "path": "al01/compact_order_research.py",
+    "size": 20281,
+    "sha256": "ee3431d19196079f9ddcc150a70d9765bc8e197be972f6cf84181612fd9dc432"
+  },
+  {
+    "path": "al01/compact_procedure_probe.py",
+    "size": 12354,
+    "sha256": "3545268bd7439183d1d0bf94ce33dc8f4c39b941a1012a3d6f86e3031fcc0464"
+  },
+  {
+    "path": "al01/compact_procedures.py",
+    "size": 17043,
+    "sha256": "6907a9c30df709e7e1542b9aa2ad4fae77819e0c18fc3f6ee071315416d02892"
+  },
+  {
+    "path": "al01/compact_regulation.py",
+    "size": 6448,
+    "sha256": "fa03deb60d0ad9872a878dd0603cfc0fa57ff4b82192311927d3fd0b981fbaa9"
+  },
+  {
+    "path": "al01/compact_runtime.py",
+    "size": 208402,
+    "sha256": "730c628d3c873e3331707cf8f8702a79f29668c1960aee8190822b1cd26f4a95"
+  },
+  {
+    "path": "al01/compact_semantics.py",
+    "size": 17621,
+    "sha256": "a23d0725015c80a26159a2a1cbf4b5aadb963715a908af2643a02640fd0abb34"
+  },
+  {
+    "path": "al01/compact_skill_evidence.py",
+    "size": 28435,
+    "sha256": "c0895f5fe5b20683dff8491e45cd172fa84a754063d85ef3f6781f57572718c2"
+  },
+  {
+    "path": "al01/compact_skill_research.py",
+    "size": 22990,
+    "sha256": "878a8a1839a7e79eba8dbe49c53efbf48889160b9eff06d8afe43278258d3912"
+  },
+  {
+    "path": "al01/compact_skill_retention.py",
+    "size": 42899,
+    "sha256": "89abfe797ad85c3be14367ad4b523320d24ee7f839feaed77eb0081e8f13c637"
+  },
+  {
+    "path": "al01/compact_source_observation.py",
+    "size": 14114,
+    "sha256": "7f555704f8f04097b37d8d27478a82518b24c54aa54cebf3af09241595d4a2fb"
+  },
+  {
+    "path": "al01/contracts.py",
+    "size": 20788,
+    "sha256": "41fa34290cdbae57b7d3b3a0c8b51f6bd1ed5873b0a94e598e5c5babeb6bee56"
+  },
+  {
+    "path": "al01/control_embryos.py",
+    "size": 9904,
+    "sha256": "35011dde67d0a77edb8db134933ccce32c77420fae029b8d4906003e78579d4d"
+  },
+  {
+    "path": "al01/controller_paths.py",
+    "size": 2426,
+    "sha256": "a8da04a5b74b57eb3978c60af0a46a13f79f8ca5aa2ac66840500fed6ebacfc4"
+  },
+  {
+    "path": "al01/core.py",
+    "size": 39160,
+    "sha256": "404acaff9dd488ff6b423655f946f49cb8f4799096ccc22c551569fef710cfe9"
+  },
+  {
+    "path": "al01/coupled_runtime.py",
+    "size": 16196,
+    "sha256": "88d25adbc272a5db35f7bc71ce6dcfe3f59fb123e9b51edfd8f4b0d0193025c3"
+  },
+  {
+    "path": "al01/coupling.py",
+    "size": 11707,
+    "sha256": "bef4d4ff4060c23b9611ef4b0a87ec6fef17fe593afb568c5ddba7cd7e0077d6"
+  },
+  {
+    "path": "al01/development.py",
+    "size": 13002,
+    "sha256": "b02a6403af0e22a713b075627068f9f52a6867216d622667819742a5cfe8b04c"
+  },
+  {
+    "path": "al01/dispatch.py",
+    "size": 8690,
+    "sha256": "6cb4cd76d8de9c5f6b55a664c7c7627a339535c775b3254abb789788af306b9b"
+  },
+  {
+    "path": "al01/durable.py",
+    "size": 9771,
+    "sha256": "9f813a0a6957e345dda8244a1e3a78e73604c0ea049471ea5964a332cd160258"
+  },
+  {
+    "path": "al01/durable_predictor.py",
+    "size": 17291,
+    "sha256": "cd807789abd801dd866c2e2e6506c394dbbc3d0e0c915a1fc8e5bbdb173b8d2f"
+  },
+  {
+    "path": "al01/folder_agent.py",
+    "size": 14865,
+    "sha256": "f54f40b3ff596d1e335355908ceef58c764a21c4a35511c0a41abe89c6aa3963"
+  },
+  {
+    "path": "al01/folder_broker.py",
+    "size": 19755,
+    "sha256": "c24165c051ba1319663de0c28fd07fe2a2854f5077566e8b7754448e656d6069"
+  },
+  {
+    "path": "al01/folder_cl.py",
+    "size": 4663,
+    "sha256": "153c16af821f7c27826db68c36e8cc195407a231b7a17cc45a4d42e44f589927"
+  },
+  {
+    "path": "al01/folder_cognition.py",
+    "size": 8920,
+    "sha256": "d0ecfe1a59d22ebd417d2bc93b68bd23c3665b6e9aa775ae1c075545cf4564de"
+  },
+  {
+    "path": "al01/folder_contracts.py",
+    "size": 10465,
+    "sha256": "85e4b73c72d93bdfb2f49dbbdfe6ddd1f937dc63038885562bd86a5d0624bc37"
+  },
+  {
+    "path": "al01/folder_field.py",
+    "size": 7988,
+    "sha256": "cf4817780eece84495ab9519feced165c2ee8f54b5612454aa86e2d70244d451"
+  },
+  {
+    "path": "al01/folder_joint.py",
+    "size": 12959,
+    "sha256": "4c01c5fb5c5cf6cfed29dc485456a4e286d71ec5bcf15e76f7adac1c9cbdcf85"
+  },
+  {
+    "path": "al01/folder_learning.py",
+    "size": 9875,
+    "sha256": "8768aec047a2b50096608da5d95b3c19846242e1770009efc77395ceacccde16"
+  },
+  {
+    "path": "al01/folder_policy.py",
+    "size": 5513,
+    "sha256": "0293afe1f92e55bbf6cb569e929de75851ad0026986b854c334dfdc263181fc6"
+  },
+  {
+    "path": "al01/folder_runner.py",
+    "size": 10800,
+    "sha256": "7cd048a0ee2db09e22cf046228c8549052e6b213b033b8ba0f85927adb3331fa"
+  },
+  {
+    "path": "al01/folder_session.py",
+    "size": 13367,
+    "sha256": "d2d28cff777c3899c9f3aef8d4e3e908040875ec04669fc499a69c0b3e0b7a1d"
+  },
+  {
+    "path": "al01/goals.py",
+    "size": 3133,
+    "sha256": "781fb2e6708071233dfd3e2e2dcda41f7c01449f74ca7de3623f5f08a652e509"
+  },
+  {
+    "path": "al01/governance.py",
+    "size": 12055,
+    "sha256": "ccabfd1ffc0ce068b65c699664183f2b0a589a7048a977eba7025cae2a20e3fc"
+  },
+  {
+    "path": "al01/instinct.py",
+    "size": 12701,
+    "sha256": "8ef420275238606a9e66bf1725bde17ed69516a73d2ac097ad8f96de826f0b4f"
+  },
+  {
+    "path": "al01/integrated.py",
+    "size": 38865,
+    "sha256": "a2b5afd4a4b6044bbc0d3bcae0d2596b8f3b78b44140e950ed4a8648a6c0e3cd"
+  },
+  {
+    "path": "al01/integrated_console.py",
+    "size": 11687,
+    "sha256": "747e5b4cb1ad31aad6aec83e3f92beaadd63b0be5bbd05883a920beb14d98c64"
+  },
+  {
+    "path": "al01/interaction.py",
+    "size": 9473,
+    "sha256": "1e1284465b715b96eff4bb23f63bece400084b3b06e1a107a315f12e263e4737"
+  },
+  {
+    "path": "al01/life_journal.py",
+    "size": 14724,
+    "sha256": "aa52cfbb5e4e70cfe4009f92fff0bd98393f851d0ace6ad27812239751f9c184"
+  },
+  {
+    "path": "al01/life_objects.py",
+    "size": 16981,
+    "sha256": "145df30ee9019f78077199a848d0a8e3cf40981986ad9b98783386f5ffdd4d8c"
+  },
+  {
+    "path": "al01/limits.py",
+    "size": 240,
+    "sha256": "3d0f0115e0d43af0b7fa3900f2c76ecc2f22d45721ccbd46e18eef265a49452e"
+  },
+  {
+    "path": "al01/migrations.py",
+    "size": 4504,
+    "sha256": "7e07bb0ab77e8eebf5c68b5a55a073a17337903a671dabd8fe3b5e176999a66a"
+  },
+  {
+    "path": "al01/multi_action_policy.py",
+    "size": 7814,
+    "sha256": "c1c930fa2bcfe3f83d162de9624837aa6bd4b5f2d8ec7b52e62a095416dfc916"
+  },
+  {
+    "path": "al01/neural_control.py",
+    "size": 8877,
+    "sha256": "71387ff740e9ccdbc32aa6df5a01f17b13fa9d4d853305ab98f72291e4e9c2de"
+  },
+  {
+    "path": "al01/neuron_queries.py",
+    "size": 18354,
+    "sha256": "68c2ac9ab0abfbbea3846fdd63287b7222fcceb909185317c907af21f05af757"
+  },
+  {
+    "path": "al01/observatory.py",
+    "size": 6409,
+    "sha256": "7511755dc0c935126ffa6ed828e8fe625e8bb168b59b9fcb2831a7a59ca29b08"
+  },
+  {
+    "path": "al01/ordered_folder_session.py",
+    "size": 14875,
+    "sha256": "bee7110e6e0a1cf32f1c979877c880695a7b4431e325f8b2f72d8a386aa662ce"
+  },
+  {
+    "path": "al01/predictive_observer.py",
+    "size": 16886,
+    "sha256": "0c842805595ddef181cbdbe095de8fd8e7a18829e11b976384201a715afe37e2"
+  },
+  {
+    "path": "al01/predictive_system.py",
+    "size": 14563,
+    "sha256": "af1e0774aa29d043df4a1ccc4f02b001ce979eaa5cb01a83949ae7eeb316b4fd"
+  },
+  {
+    "path": "al01/references.py",
+    "size": 7271,
+    "sha256": "c1be46949ea446f377d8a17bfb9df291df35a04a5ca305d5f8a461ffb9b553a1"
+  },
+  {
+    "path": "al01/resources.py",
+    "size": 3123,
+    "sha256": "51955fe748a2b11f4c34b84d73c2e92854449f0ea35f0247add3ba19350bef81"
+  },
+  {
+    "path": "al01/routing.py",
+    "size": 3053,
+    "sha256": "b4bec8ab0d933e4a263ee63f58c8beb011e48b4669068dce951f9df5f1c9ad32"
+  },
+  {
+    "path": "al01/segments.py",
+    "size": 11092,
+    "sha256": "1c756f335c891568a54034666afb652dfc4b6c1cab1b78d0b315a4c9569beb76"
+  },
+  {
+    "path": "al01/semantic_memory.py",
+    "size": 10140,
+    "sha256": "0bf3dc2f840f40a7fedcfcbc138ba648e547d2fe32286bc6acd9ff1afc5ffcd4"
+  },
+  {
+    "path": "al01/skills.py",
+    "size": 15265,
+    "sha256": "0b1891f1a498793e6dca89ff349a4d2d9455bf252e47a5155ccc3fbc477c1f60"
+  },
+  {
+    "path": "al01/sum_types.py",
+    "size": 8167,
+    "sha256": "6a25c5a7804e9dfdf58e4d7433ddab02768dee01ed232b1f9f2adf505a5149cb"
+  },
+  {
+    "path": "al01/system_actions.py",
+    "size": 16134,
+    "sha256": "9304166811416258f6cf4f2a3b47c36f2cf777e48229e1d23c142d192dd94268"
+  },
+  {
+    "path": "al01/system_coordinator.py",
+    "size": 16496,
+    "sha256": "f9e2dd5be8e49ebb5addba8397110246ff818209bf8eb25c5d0542d3a1243ac2"
+  },
+  {
+    "path": "al01/system_goals.py",
+    "size": 11882,
+    "sha256": "62ef8de3abc322e8695345c34b41f895cd3b08d32fe5b44f2431b7fa0cdbaa98"
+  }
+]
